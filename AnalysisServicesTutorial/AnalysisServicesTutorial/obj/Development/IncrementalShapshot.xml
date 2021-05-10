@@ -26,35 +26,84 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>jSJndBnBMOlNlJihIi6C8vMEkAI=10.05.2021 0:52:1009.05.2021 20:39:23</TimeStamp>
+        <TimeStamp>/3UDnnNQSwVAhVMNOHo9e9r1m58=10.05.2021 17:33:1809.05.2021 20:39:23</TimeStamp>
         <ID>
           <String>Adventure Works DW2017</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>YW473CaLOuAX8DROQ82fltDzqHQ=10.05.2021 0:40:1109.05.2021 20:46:57</TimeStamp>
+        <TimeStamp>pcwNw8NE057fLAfDrkwWsWO5Nq8=10.05.2021 17:41:2609.05.2021 20:46:57</TimeStamp>
         <ID>
           <String>Дата</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>0w1/RzL26YajlkIbNgrpU1Q9+M8=10.05.2021 0:56:0209.05.2021 20:50:43</TimeStamp>
+        <TimeStamp>GFh8EOxjDTWka77LxaDzlcTqano=10.05.2021 14:27:3209.05.2021 20:50:43</TimeStamp>
         <ID>
           <String>Клиент</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>UMif6B3u2Yoq6ikosnOGnCVY5+A=10.05.2021 0:06:2209.05.2021 20:50:43</TimeStamp>
+        <TimeStamp>1iYe1SN8Ye4x88chLCkn5vW3/YA=10.05.2021 17:49:1709.05.2021 20:50:43</TimeStamp>
         <ID>
           <String>Продукт</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>tIxV5ploLIu7VpNh7ZLHsARKPqU=10.05.2021 13:03:2810.05.2021 13:03:28</TimeStamp>
+        <ID>
+          <String>Dim Promotion</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>hcI61zQOH4OpMW+pTxYxns9BE8I=10.05.2021 13:03:4610.05.2021 13:03:46</TimeStamp>
+        <ID>
+          <String>Dim Sales Territory</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>T5wEXvbVtbjrga9X/ZcDMNBv1Bo=10.05.2021 14:59:2110.05.2021 13:04:00</TimeStamp>
+        <ID>
+          <String>Dim Employee</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>TJaPptsi1srwv121ywqoO6SZLuA=10.05.2021 13:04:1510.05.2021 13:04:15</TimeStamp>
+        <ID>
+          <String>Dim Currency</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>3e0yjKjDoVq8l7MWTZcrvCdRpLA=10.05.2021 13:04:3810.05.2021 13:04:38</TimeStamp>
+        <ID>
+          <String>Dim Product Category</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>WeQmIQln8CE9h7J9vq0AjAPr5gI=10.05.2021 13:04:4910.05.2021 13:04:48</TimeStamp>
+        <ID>
+          <String>Dim Product Subcategory</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>BJvbf0Dezc4GOoJU8+COlJRJN3k=10.05.2021 16:26:4910.05.2021 16:26:49</TimeStamp>
+        <ID>
+          <String>Dim Reseller</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>r0qAme85HvUPVQUowZb7nqwn6H0=10.05.2021 0:52:1009.05.2021 20:50:43CN5xQ0nd/bzwf3yrB5T1NqbUZ6M=09.05.2021 20:50:4309.05.2021 20:50:43</TimeStamp>
+        <TimeStamp>a352rx0Gy0vqiDb4bcrHUdxBR+Y=10.05.2021 17:07:5009.05.2021 20:50:431a47VqutOrCRDt1w4+MIfNeDAtM=10.05.2021 16:26:4909.05.2021 20:50:43</TimeStamp>
         <ID>
           <String>Adventure Works DW2017</String>
         </ID>
@@ -71,5 +120,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2021-05-09T21:56:34.996667Z</LastDeployed>
+  <LastDeployed>2021-05-10T14:49:24.78Z</LastDeployed>
 </DeploymentSnapshot>

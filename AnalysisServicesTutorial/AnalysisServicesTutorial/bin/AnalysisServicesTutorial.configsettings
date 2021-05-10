@@ -20,6 +20,27 @@
       <Dimension>
         <ID>Продукт</ID>
       </Dimension>
+      <Dimension>
+        <ID>Dim Promotion</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Sales Territory</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Employee</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Currency</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Product Category</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Product Subcategory</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Reseller</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>
@@ -30,6 +51,14 @@
             <Partitions>
               <Partition>
                 <ID>Продажи Через Интернет</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+          <MeasureGroup>
+            <ID>Fact Reseller Sales</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Reseller Sales</ID>
               </Partition>
             </Partitions>
           </MeasureGroup>

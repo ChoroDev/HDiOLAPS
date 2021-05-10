@@ -31,6 +31,34 @@
       <Name>Продукт.dim</Name>
       <FullPath>Продукт.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Promotion.dim</Name>
+      <FullPath>Dim Promotion.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Sales Territory.dim</Name>
+      <FullPath>Dim Sales Territory.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Employee.dim</Name>
+      <FullPath>Dim Employee.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Currency.dim</Name>
+      <FullPath>Dim Currency.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Product Category.dim</Name>
+      <FullPath>Dim Product Category.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Product Subcategory.dim</Name>
+      <FullPath>Dim Product Subcategory.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Reseller.dim</Name>
+      <FullPath>Dim Reseller.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
