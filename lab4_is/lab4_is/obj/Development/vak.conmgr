@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="vak"
+  DTS:DTSID="{98525395-4657-4E73-9D35-BA6FB3B05F2E}"
+  DTS:CreationName="FLATFILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:Format="Delimited"
+      DTS:LocaleID="1049"
+      DTS:HeaderRowDelimiter="_x000D__x000A_"
+      DTS:ColumnNamesInFirstDataRow="True"
+      DTS:RowDelimiter=""
+      DTS:TextQualifier="_x003C_none_x003E_"
+      DTS:CodePage="1251"
+      DTS:ConnectionString="D:\University\мага\ХДиOLAPс\lab4\Vak.csv">
+      <DTS:FlatFileColumns>
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x003B_"
+          DTS:MaximumWidth="500"
+          DTS:DataType="130"
+          DTS:TextQualified="True"
+          DTS:ObjectName="Название "
+          DTS:DTSID="{4F423916-9E1F-43F5-AAED-3B8CFC0043F6}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x000D__x000A_"
+          DTS:MaximumWidth="500"
+          DTS:DataType="130"
+          DTS:TextQualified="True"
+          DTS:ObjectName="Науки"
+          DTS:DTSID="{6B8292C8-1BD1-4EF8-9724-799C96CE160A}"
+          DTS:CreationName="" />
+      </DTS:FlatFileColumns>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
